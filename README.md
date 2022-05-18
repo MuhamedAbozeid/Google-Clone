@@ -1,6 +1,6 @@
 
 
-[Goggl](https://i.ibb.co/yQdYhtq/image.png)
+![Goggl](https://i.ibb.co/yQdYhtq/image.png)
 
 
 Setup:
