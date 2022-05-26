@@ -6,7 +6,7 @@ import { Results } from './Results';
 export const Routes = () => (
   <div className="p-4">
     <Switch>
-      <Route exact path="/">
+      <Route exact path="/Google-Clone">
         <Redirect to="/search" />
       </Route>
       <Route exact path="/search">
